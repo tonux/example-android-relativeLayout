@@ -90,7 +90,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                editor.putString("COMMENT_3", editText3.getText().toString()    ); // Storing boolean - true/false
+                editor.putString("COMMENT_3", editText3.getText().toString()    ); //
                 editor.commit(); // commit changes
 
                 Toast.makeText(getApplicationContext(),
@@ -102,7 +102,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                editor.putString("COMMENT_4", editText4.getText().toString()    ); // Storing boolean - true/false
+                editor.putString("COMMENT_4", editText4.getText().toString()    ); //
                 editor.commit(); // commit changes
 
                 Toast.makeText(getApplicationContext(),
@@ -114,7 +114,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                editor.putString("COMMENT_5", editText5.getText().toString()    ); // Storing boolean - true/false
+                editor.putString("COMMENT_5", editText5.getText().toString()    ); //
                 editor.commit(); // commit changes
 
                 Toast.makeText(getApplicationContext(),
@@ -126,7 +126,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                editor.putString("COMMENT_6", editText6.getText().toString()    ); // Storing boolean - true/false
+                editor.putString("COMMENT_6", editText6.getText().toString()    ); //
                 editor.commit(); // commit changes
 
                 Toast.makeText(getApplicationContext(),
@@ -138,7 +138,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                editor.putString("COMMENT_7", editText7.getText().toString()    ); // Storing boolean - true/false
+                editor.putString("COMMENT_7", editText7.getText().toString()    ); //
                 editor.commit(); // commit changes
 
                 Toast.makeText(getApplicationContext(),
